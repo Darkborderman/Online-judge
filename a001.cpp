@@ -6,8 +6,8 @@ int main()
 {
      string s;
      while(cin>>s)
-{
+     {
       cout<<"hello, "<<s<<endl;
-}
-return 0;
+    }
+    return 0;
 }
